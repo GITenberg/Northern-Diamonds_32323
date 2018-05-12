@@ -1,0 +1,35 @@
+_repo: Northern-Diamonds_32323
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Edwards, H. C. (Harry C.)
+    alias: Edwards, Harry C.
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '34137'
+    url: http://www.gutenberg.org/2009/agents/34137
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pollock, Frank Lillie
+    alias: Pollock, Frank L. (Frank Lillie)
+    gutenberg_agent_id: '36703'
+    url: http://www.gutenberg.org/2009/agents/36703
+description: ''
+gutenberg_issued: '2010-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diamond mines and mining -- Juvenile fiction'
+- !lcsh 'Canada -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+title: Northern Diamonds
+url: http://www.gutenberg.org/ebooks/32323
